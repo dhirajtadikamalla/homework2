@@ -28,7 +28,7 @@ img {
 }
 
 div {
-    min-height: 100px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -52,12 +52,16 @@ div {
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 
+#yellow p {
+    color: #000000;
+}
+
 #green {
     background: #008000;
     text-align: left;
 }
 
-#footer {
+footer p {
     text-align: right; 
     padding-bottom: 10px;
     padding-right: 10px;   
